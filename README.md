@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Database%20Engineering%20Labs&fontSize=50&animation=fadeIn&fontAlignY=38&desc=A%20Journey%20into%20Data%20Modeling%20%26%20SQL&descAlignY=51&descAlign=62" />
+# 🗄️ Database Engineering Labs
 
   <br>
 
