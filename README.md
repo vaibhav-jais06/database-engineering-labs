@@ -1,6 +1,7 @@
 <!-- Banner -->
 <div align="center">
-# 🗄️ Database Engineering Labs
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" style="border-radius: 10px;" />
+  <h1 align="center">🗄️ Database Engineering Labs</h1>
 
   <br>
 
