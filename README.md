@@ -57,13 +57,13 @@ Explore the expanding directory of hands-on labs. Expand each module to see what
 </details>
 
 <details>
-<summary>🟡 <b>Module 2: SQL Fundamentals (Upcoming)</b></summary>
+<summary>🟢 <b>Module 2: SQL Fundamentals (Completed)</b></summary>
 <br>
 
-- **Topics to cover:**
-  - DDL (Data Definition Language) & DML (Data Manipulation Language).
-  - Basic CRUD operations.
-  - Filtering (`WHERE`, `HAVING`) and Grouping (`GROUP BY`).
+- **[Week 3 Lab - Intro to Databases & SQL](Week3_SQL_Lab.ipynb)**
+  - **Objective:** Introduction to basic SQL statements including CREATE, INSERT, SELECT, GROUP BY, VIEW, and INDEX.
+  - **Skills:** Setting up SQLite, creating tables, inserting and querying data, basic aggregation.
+  - **Tech:** `Python`, `SQLite`, `Pandas`
 </details>
 
 <details>
@@ -83,6 +83,7 @@ Explore the expanding directory of hands-on labs. Expand each module to see what
 ```text
 📦 database-engineering-labs
  ┣ 📜 Week2_Database_Lab.ipynb   # Pandas data modeling simulation
+ ┣ 📜 Week3_SQL_Lab.ipynb        # Introduction to Databases & SQL
  ┣ 📜 README.md                  # You are here!
  ┗ 🚧 (More modules incoming)
 ```
