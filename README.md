@@ -67,13 +67,13 @@ Explore the expanding directory of hands-on labs. Expand each module to see what
 </details>
 
 <details>
-<summary>🟡 <b>Module 3: Advanced Queries & Architecture (Upcoming)</b></summary>
+<summary>🟢 <b>Module 3: Advanced Queries & Architecture (Completed)</b></summary>
 <br>
 
-- **Topics to cover:**
-  - Inner, Left, Right, and Full Outer Joins.
-  - Subqueries and Common Table Expressions (CTEs).
-  - Database Normalization (1NF, 2NF, 3NF, BCNF).
+- **[Week 4 Lab - Advanced SQL Queries](Week4_SQL_Lab.ipynb)**
+  - **Objective:** Advanced SQL queries including Joins, Subqueries, and CTEs.
+  - **Skills:** Inner/Outer Joins, Database Normalization (1NF, 2NF, 3NF, BCNF).
+  - **Tech:** `Python`, `SQLite`, `Pandas`
 </details>
 
 ---
@@ -84,6 +84,7 @@ Explore the expanding directory of hands-on labs. Expand each module to see what
 📦 database-engineering-labs
  ┣ 📜 Week2_Database_Lab.ipynb   # Pandas data modeling simulation
  ┣ 📜 Week3_SQL_Lab.ipynb        # Introduction to Databases & SQL
+ ┣ 📜 Week4_SQL_Lab.ipynb        # Advanced SQL Queries & Architecture
  ┣ 📜 README.md                  # You are here!
  ┗ 🚧 (More modules incoming)
 ```
